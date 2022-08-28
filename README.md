@@ -26,3 +26,4 @@ Place the build folder in htdocs in your http server then run it from the there 
 
 
 ![GameRunning](https://github.com/Marius-Mulama/FPS-game-Project/blob/main/Gamerunning.PNG)
+# C-Game-Project
