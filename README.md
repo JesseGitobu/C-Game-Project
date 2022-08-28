@@ -1,5 +1,5 @@
 # FPS-game-Project
-A first person shooter game built on unity with c#
+A first person shooter game built on unity with C
 
 This repo contains the builds for the the project for WebGL.
 
@@ -25,5 +25,5 @@ Spacebar us used for jumping.
 Place the build folder in htdocs in your http server then run it from the there e.g When using xampp place it in the htdocs and start apache. Go to localhost/bulds then play
 
 
-![GameRunning](https://github.com/Marius-Mulama/FPS-game-Project/blob/main/Gamerunning.PNG)
+![GameRunning](https://github.com/JesseGitobu/C-Game-Project/blob/master/Gamerunning.PNG)
 # C-Game-Project
